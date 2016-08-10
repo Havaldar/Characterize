@@ -1,4 +1,4 @@
-#!/Users/abhinav/Desktop/characterize/env/bin/python
+#!/Users/abhinav/characterize/env/bin/python
 #
 # The Python Imaging Library
 # $Id$
